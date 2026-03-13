@@ -8,17 +8,19 @@
 
 ## The Problem / 痛点
 
-Developers tend to propose large, ambitious requests and end up:
-- Over-engineering the first version
-- Building nice-to-haves before the core loop works
-- Shipping slow, low-quality work due to scope creep
+You come up with an ambitious idea — a whole new subsystem, a full redesign, a complete refactor.
+You believe it's essential. You start brainstorming with Claude, spinning up scenarios, asking "what if?"
+Three hours later: thousands of tokens consumed, multiple services sketched out, database changes drafted,
+and the core loop *still* isn't running. You're lost in a maze of features.
+**The system never ships. Quality suffers. You're exhausted.**
 
 ---
 
-开发者提需求时往往野心过大，结果导致：
-- 第一个版本就过度设计
-- 核心闭环还没跑通，就在堆锦上添花的功能
-- 范围蔓延，质量下降，交付拖慢
+你想到一个野心勃勃的想法——全新的子系统、整体重设计、彻底大重构。
+你觉得这都是必须的。开始和 Claude 头脑风暴，设想各种场景，"如果……会怎样？"
+三小时后：消耗了数千 token，多个服务勾勒出来，数据库改动起草完毕，
+**但核心闭环还没跑起来。你迷失在功能的巨大体系里。**
+系统最后没上线。质量一团糟。你精疲力尽。
 
 ---
 
