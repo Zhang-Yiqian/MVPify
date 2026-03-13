@@ -8,19 +8,24 @@
 
 ## The Problem / 痛点
 
-You come up with an ambitious idea — a whole new subsystem, a full redesign, a complete refactor.
-You believe it's essential. You start brainstorming with Claude, spinning up scenarios, asking "what if?"
-Three hours later: thousands of tokens consumed, multiple services sketched out, database changes drafted,
-and the core loop *still* isn't running. You're lost in a maze of features.
-**The system never ships. Quality suffers. You're exhausted.**
+This skill was born from burning **over 100 million tokens** learning this lesson the hard way.
+
+With vCoding, you always want to build something ambitious in one shot. You sketch out a "complete solution"
+with Claude — multiple services, complex workflows, a full feature set. It *feels* like the right move.
+But then: you're drowning in a massive feature system. Tokens melt away. The architecture keeps evolving.
+Dependencies pile up. **And the core loop still isn't running.**
+
+You've spent enormous token budget on something that never ships.
 
 ---
 
-你想到一个野心勃勃的想法——全新的子系统、整体重设计、彻底大重构。
-你觉得这都是必须的。开始和 Claude 头脑风暴，设想各种场景，"如果……会怎样？"
-三小时后：消耗了数千 token，多个服务勾勒出来，数据库改动起草完毕，
-**但核心闭环还没跑起来。你迷失在功能的巨大体系里。**
-系统最后没上线。质量一团糟。你精疲力尽。
+这个 skill 来自烧掉**上亿 token** 的真实教训。
+
+用 vCoding 时，你总想一次做个大的。和 Claude 一起勾勒出"完整方案"——多个服务、复杂流程、全套功能。感觉很对。
+但接下来：你迷失在巨大的功能体系里。Token 大量消耗。架构不断演进。依赖越堆越多。
+**而核心闭环还是没跑起来。**
+
+你花掉了巨量 token 预算，系统却没上线。
 
 ---
 
