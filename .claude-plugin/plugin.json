@@ -1,0 +1,9 @@
+{
+  "name": "MVPify",
+  "description": "A Claude Code skill that decomposes large feature requests into the smallest possible MVP closed loop — with P0/P1/P2 prioritization, scope pruning, and risk-first validation. Prevents over-engineering before a single line of code is written.",
+  "author": {
+    "name": "zhangyiqian"
+  },
+  "version": "1.0.0",
+  "category": "productivity"
+}
